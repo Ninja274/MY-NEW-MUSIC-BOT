@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
 const botName = "🎸 Music Bot ";
 const rtxText = "RTX";
-const version = "/Hlep"; 
+const version = "Latest@ v3.5"; 
 const startTime = Date.now();
 
 function printWatermark() {
