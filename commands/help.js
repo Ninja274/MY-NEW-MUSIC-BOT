@@ -69,7 +69,7 @@ module.exports = {
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://replit.com/@BEASTGAMERS1?tab=community')
+        .setURL('')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
@@ -97,6 +97,6 @@ module.exports = {
    
    # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
    ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+   ## Contact    [ DISCORD SERVER :  https://discord.gg/MWXhFzKKQB ]
+   ## YT : https://www.youtube.com/channel/UCNkmv9yewIT8C7-0qBNSLrQ
 */
