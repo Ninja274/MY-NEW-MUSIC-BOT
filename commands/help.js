@@ -59,12 +59,12 @@ module.exports = {
        .setImage('https://media.discordapp.net/attachments/968310975893737472/1224241898865295422/download_2.gif?ex=661cc71e&is=660a521e&hm=c0a91438c4ff90206f2e58a11f45f1b2043f95c7b83c7385ac91f912097fda46&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
-        .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+        .setURL('https://www.youtube.com/channel/UCNkmv9yewIT8C7-0qBNSLrQ')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
+        .setURL('https://discord.gg/MWXhFzKKQB')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
