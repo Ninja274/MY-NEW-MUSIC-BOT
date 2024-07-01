@@ -25,11 +25,8 @@ const config = require("./config.js");
 const fs = require("fs");
 const path = require('path');
 
-const client = new Client({
-  intents: Object.keys(GatewayIntentBits).map((a) => {
-    return GatewayIntentBits[a];
-  }),
-});
+const Discord = require("discord.js")
+const client = new Discord.Client({intents:[Discord.IntentsBitField.Flags.Guilds});
 
 client.config = config;
 client.player = new DisTube(client, {
